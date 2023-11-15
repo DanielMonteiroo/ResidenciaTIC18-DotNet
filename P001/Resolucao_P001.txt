@@ -1,3 +1,5 @@
+RESOLUÇÂO QUESTÕES TEORICAS
+
 Questão 1 Configuração do Ambiente:
 
 Podemos verificar se o .NET SDK está corretamente instalado no sistema usando alguns comandos no terminal. 
